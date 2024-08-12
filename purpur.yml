@@ -34,7 +34,7 @@ settings:
       stonecutter: <player> has sawed themself in half
   register-minecraft-debug-commands: false
   server-mod-name: Purpur
-  use-alternate-keepalive: false
+  use-alternate-keepalive: true
   disable-give-dropping: false
   bee-count-payload: false
   tps-catchup: true
@@ -1457,8 +1457,8 @@ world-settings:
           radius: 0
           limit: 0
         search-radius:
-          acquire-poi: 48
-          nearest-bed-sensor: 48
+          acquire-poi: 16
+          nearest-bed-sensor: 16
       vindicator:
         ridable: false
         ridable-in-water: true
@@ -1554,7 +1554,7 @@ world-settings:
           only-babies: true
           chance: 0.05
           try-existing-chickens: true
-        aggressive-towards-villager-when-lagging: true
+        aggressive-towards-villager-when-lagging: false
         bypass-mob-griefing: false
         takes-damage-from-water: false
         always-drop-exp: false
@@ -1743,7 +1743,7 @@ world-settings:
         exp-dropped-on-death:
           equation: expLevel * 7
           maximum: 100
-        teleport-if-outside-border: false
+        teleport-if-outside-border: true
         teleport-on-nether-ceiling-damage: false
         totem-of-undying-works-in-inventory: false
         fix-stuck-in-portal: false
