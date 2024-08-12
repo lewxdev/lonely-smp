@@ -1,0 +1,10 @@
+*
+
+!.gitignore
+!config/paper-world-defaults.yml
+!server.properties
+!bukkit.yml
+!purpur.yml
+!spigot.yml
+!run.sh
+!README.md
