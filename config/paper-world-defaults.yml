@@ -155,33 +155,33 @@ entities:
     alt-item-despawn-rate:
       enabled: true
       items:
-        acacia_leaves: 300
-        andesite: 300
-        bamboo: 300
-        birch_leaves: 300
-        cactus: 300
-        cherry_leaves: 300
-        cobblestone: 300
-        dark_oak_leaves: 300
-        diorite: 300
-        dirt: 300
-        granite: 300
-        gravel: 300
-        jungle_leaves: 300
-        kelp: 300
-        mangrove_leaves: 300
-        melon_slice: 300
-        netherrack: 300
-        oak_leaves: 300
-        pumpkin: 300
-        red_sand: 300
-        sand: 300
-        scaffolding: 600
-        short_grass: 300
-        spruce_leaves: 300
-        sugar_cane: 300
-        twisting_vines: 300
-        weeping_vines: 300
+        acacia_leaves: 3000
+        andesite: 3000
+        bamboo: 3000
+        birch_leaves: 3000
+        cactus: 3000
+        cherry_leaves: 3000
+        cobblestone: 3000
+        dark_oak_leaves: 3000
+        diorite: 3000
+        dirt: 3000
+        granite: 3000
+        gravel: 3000
+        jungle_leaves: 3000
+        kelp: 3000
+        mangrove_leaves: 3000
+        melon_slice: 3000
+        netherrack: 3000
+        oak_leaves: 3000
+        pumpkin: 3000
+        red_sand: 3000
+        sand: 3000
+        scaffolding: 3000
+        short_grass: 3000
+        spruce_leaves: 3000
+        sugar_cane: 3000
+        twisting_vines: 3000
+        weeping_vines: 3000
     count-all-mobs-for-spawning: false
     creative-arrow-despawn-rate: '20'
     despawn-ranges:
