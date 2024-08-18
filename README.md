@@ -1,4 +1,4 @@
-# los guapos
+# Lonely SMP
 
 1. download the latest build from purpur
 
@@ -11,7 +11,7 @@
 1. start the server in a new tmux session
 
    ```bash
-   tmux new -Ads los-guapos
+   tmux new -Ads lonely-smp
    ```
 
 1. run the server
