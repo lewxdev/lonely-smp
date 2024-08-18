@@ -1,10 +1,12 @@
 *
 
-!.gitignore
 !config/paper-world-defaults.yml
+!plugins/*.jar
+!world/datapacks/*.zip
+!.gitignore
+!README.md
 !server.properties
+!run.sh
 !bukkit.yml
 !purpur.yml
 !spigot.yml
-!run.sh
-!README.md
