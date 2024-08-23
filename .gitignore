@@ -1,12 +1,23 @@
 *
 
+# server config
+# (e.g. optimizations, see: https://github.com/YouHaveTrouble/minecraft-optimization/blob/1.21/README.md)
 !config/paper-world-defaults.yml
-!plugins/*.jar
-!world/datapacks/*.zip
-!.gitignore
-!README.md
 !server.properties
-!run.sh
 !bukkit.yml
 !purpur.yml
 !spigot.yml
+
+# mods (e.g. datapacks, plugins)
+!plugins/*.jar
+!world/datapacks/*.zip
+
+# mod config
+!config/AdvancedBackups.properties
+!plugins/DiscordSRV/config.yml
+
+# repository
+!.gitignore
+!README.md
+
+!run.sh
