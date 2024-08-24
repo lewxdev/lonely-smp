@@ -12,6 +12,10 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 
   The stonecutter is now more useful than ever with 500+ new recipes including woodcutting, enhanced base stonecutting, recycling and "un-crafting".
 
+- [Miner's Delight!](https://modrinth.com/datapack/miners-delight!) by [Galeboy](https://modrinth.com/user/Galeboy)
+
+  Makes mining more efficient, fun, and semi-automatable!
+
 - [TreeCapitator](https://modrinth.com/datapack/treecapitator-datapack) by [HielkeMaps](https://modrinth.com/user/HielkeMaps)
 
   Chop down trees by breaking one block!
