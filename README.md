@@ -34,6 +34,10 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 
   The most powerful, configurable, open-source Discord to Minecraft bridging plugin available.
 
+- [Dynmap®](https://modrinth.com/plugin/dynmap) by [mikeprimm](https://modrinth.com/user/mikeprimm)
+
+  A Google Maps-like map for your Minecraft server that can be viewed in a browser.
+
 ## Setup
 
 These are the steps I followed to get the server up and running.
