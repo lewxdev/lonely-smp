@@ -1,6 +1,6 @@
 *
 
-# server config
+# server
 # (e.g. optimizations, see: https://github.com/YouHaveTrouble/minecraft-optimization/blob/1.21/README.md)
 !config/paper-world-defaults.yml
 !server.properties
@@ -8,13 +8,14 @@
 !purpur.yml
 !spigot.yml
 
-# mods (e.g. datapacks, plugins)
-!plugins/*.jar
+# datapacks
 !world/datapacks/*.zip
 
-# mod config
+# plugins
 !config/AdvancedBackups.properties
+!plugins/BlueMap/core.conf
 !plugins/DiscordSRV/config.yml
+!plugins/*.jar
 
 # repository
 !.gitignore
