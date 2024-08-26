@@ -30,13 +30,13 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 
   The backup mod to solve all your problems - actively maintained for almost any minecraft version!
 
+- [BlueMap](https://modrinth.com/plugin/bluemap) by [BlueColored](https://modrinth.com/user/BlueColored)
+
+  A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
+
 - [DiscordSRV](https://modrinth.com/plugin/discordsrv) by [Scarsz](https://modrinth.com/user/Scarsz)
 
   The most powerful, configurable, open-source Discord to Minecraft bridging plugin available.
-
-- [Dynmap®](https://modrinth.com/plugin/dynmap) by [mikeprimm](https://modrinth.com/user/mikeprimm)
-
-  A Google Maps-like map for your Minecraft server that can be viewed in a browser.
 
 ## Setup
 
