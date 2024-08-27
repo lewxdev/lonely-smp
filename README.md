@@ -6,7 +6,7 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 
 ## Mods
 
-### Datapacks
+### Data Packs
 
 - [MasterCutter](https://modrinth.com/datapack/mastercutter) by [Nico4play](https://modrinth.com/user/Nico4play)
 
@@ -23,6 +23,16 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 - [Veinminer](https://modrinth.com/datapack/veinminer) by [Miraculixx](https://modrinth.com/user/Miraculixx)
 
   Mine the whole vine on mining a single ore. Known feature by modpacks and pvp games like UHC (quick mine)
+
+### Resource Packs
+
+- [Miner's Delight!](https://modrinth.com/datapack/miners-delight!) by [Galeboy](https://modrinth.com/user/Galeboy)
+
+  Makes mining more efficient, fun, and semi-automatable!
+
+- [Pixel Twemoji 18x](https://modrinth.com/resourcepack/pixel-twemoji-18x) by [AmberW](https://modrinth.com/user/AmberW)
+
+  All Twemoji emoji (the emoji used by Discord and Twitter), redrawn by hand as pixel art at 18x18 resolution
 
 ### Plugins
 
