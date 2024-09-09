@@ -94,13 +94,13 @@ These are the steps I followed to get the server up and running.
 1. Start the server in a new tmux session
 
    ```bash
-   tmux new -As lonely-smp
+   tmux new -ds lonely-smp 'bash run.sh'
    ```
 
-1. Run the server
+2. Set the script to start automatically on boot by adding the following line to the crontab `crontab -e`:
 
-   ```bash
-   bash run.sh
+   ```
+   @reboot (cd path/to/server; tmux new -ds lonely-smp 'bash run.sh')
    ```
 
 > [!TIP]
