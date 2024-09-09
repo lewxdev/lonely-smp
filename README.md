@@ -16,6 +16,10 @@ Feel free to use this as a general guide if you want to do something similar. Bu
 
   Makes mining more efficient, fun, and semi-automatable!
 
+- [Remove "Too Expensive"](https://modrinth.com/datapack/remove-%22too-expensive%22) by [reviver9863](https://modrinth.com/user/reviver9863)
+
+  A datapack made to remove the hidden 'anvil cost' for items without compromise.
+
 - [TreeCapitator](https://modrinth.com/datapack/treecapitator-datapack) by [HielkeMaps](https://modrinth.com/user/HielkeMaps)
 
   Chop down trees by breaking one block!
